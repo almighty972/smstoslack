@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jeanlambert/androidslackconnector/IncomingSms.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jeanlambert/androidslackconnector/IncomingSmsBroadcastReceiver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/jeanlambert/androidslackconnector/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/ca/ewallet-appli-android/app/build/intermediates/exploded-aar/cawsmodule-bk-0.1/jars/classes.jar!/com/backelite/android/paylibwsmodule/network/manager/CAManager.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/ca/ewallet-appli-android/app/src/main/java/fr/creditagricole/ewallet/androidapp/activites/payment/PaymentHomeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/ca/ewallet-appli-android/app/src/main/java/fr/creditagricole/ewallet/androidapp/fragments/CguFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/ca/ewallet-appli-android/app/src/main/java/fr/creditagricole/ewallet/androidapp/managers/AppManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/ca/poc-paylib-appli-android/cawsmodule/src/main/java/com/backelite/android/paylibwsmodule/network/manager/CAManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/ca/poc-paylib-appli-android/cawsmodule/src/main/java/com/backelite/android/paylibwsmodule/network/ws/CreditAgricoleService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/ca/poc-paylib-appli-android/sdkwtamodule/src/main/java/com/backelite/android/wtawrapper/interfaces/IWtaManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/ca/poc-paylib-appli-android/sdkwtamodule/src/main/java/com/backelite/android/wtawrapper/managers/MockWtaManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/ca/poc-paylib-appli-android/sdkwtamodule/src/main/java/com/backelite/android/wtawrapper/managers/WtaManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/app/build/intermediates/exploded-aar/com.societegenerale.composer/pluginauthenticationoob/0.1-SNAPSHOT/res/raw/pao_descriptor.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationkeyboard/src/main/java/com/societegenerale/pluginauthenticationkeyboard/navigation/AuthenticationKeyboardController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationkeyboard/src/main/res/layout/fragment_authentication_keyboard.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationoob/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationoob/src/main/java/com/societegenerale/pluginoob/OOBPlugin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationoob/src/main/java/com/societegenerale/pluginoob/SdkConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationoob/src/main/java/com/societegenerale/pluginoob/SdkHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationoob/src/main/java/com/societegenerale/pluginoob/command/enrolment/OOBGetStatusActivationCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationoob/src/main/java/com/societegenerale/pluginoob/command/enrolment/OOBPushActivationCodeAndTokenCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationoob/src/main/java/com/societegenerale/pluginoob/command/enrolment/OOBPushActivationDatasCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationoob/src/main/java/com/societegenerale/pluginoob/command/enrolment/OOBPushActivationDatasWithCodeCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationoob/src/main/java/com/societegenerale/pluginoob/command/sgproent/OOBGetTerminalNameCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationoob/src/main/java/com/societegenerale/pluginoob/command/sgproent/OOBInitEnrolmentCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationoob/src/main/java/com/societegenerale/pluginoob/command/sgproent/OOBIsEnroledCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationoob/src/main/java/com/societegenerale/pluginoob/command/sgproent/OOBSetActivationCodeCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationoob/src/main/java/com/societegenerale/pluginoob/command/sgproent/OOBSetActivationTokenCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationoob/src/main/java/com/societegenerale/pluginoob/command/sgproent/OOBSetNomTerminalCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationoob/src/main/java/com/societegenerale/pluginoob/command/sgproent/OOBSetTerminalNameCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginauthenticationoob/src/main/res/raw/pao_descriptor.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/plugincompatibilitysg/src/main/java/com/societegenerale/plugincompatibilitysg/CompatibilitySGPlugin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/plugincompatibilitysg/src/main/java/com/societegenerale/plugincompatibilitysg/command/sgproent/GetNomTerminalCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/plugincompatibilitysg/src/main/java/com/societegenerale/plugincompatibilitysg/command/sgproent/GetStatutActivationCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/plugincompatibilitysg/src/main/java/com/societegenerale/plugincompatibilitysg/command/sgproent/InitEnrolementCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/plugincompatibilitysg/src/main/java/com/societegenerale/plugincompatibilitysg/command/sgproent/InitEnrolmentCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/plugincompatibilitysg/src/main/java/com/societegenerale/plugincompatibilitysg/command/sgproent/SetCodeActivationCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/plugincompatibilitysg/src/main/java/com/societegenerale/plugincompatibilitysg/command/sgproent/SetJetonActivationCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/plugincompatibilitysg/src/main/java/com/societegenerale/plugincompatibilitysg/command/sgproent/SetNomTerminalCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/plugincompatibilitysg/src/main/res/raw/pcs_descriptor.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/plugintestwebview/src/main/java/com/societegenerale/plugintestwebview/navigation/WebViewController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginuserpreferences/src/main/java/com/societegenerale/pluginuserpreferences/command/GetUserPreferencesCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/composer-android/pluginuserpreferences/src/test/java/com/societegenerale/pluginuserpreferences/SetSecuredUserPreferencesCommandTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/sogen-proent-appli-android/app/src/main/java/com/societegenerale/proent/androidapp/activity/webview/MainWebViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/androidstudio/societe-generale/sogen-proent-appli-android/app/src/main/java/com/societegenerale/proent/androidapp/activity/webview/SoGenWebActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.regexp">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
