@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SMS to Slack</string>
+
+    <string name="hello_world">OTP codes will be sent to differents Slack channels.</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_send">CA hook url test</string>
+    <string name="hint_sms_number">SMS number</string>
+</resources>
